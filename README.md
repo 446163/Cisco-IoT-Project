@@ -14,7 +14,7 @@ This will be split up into 4 different sections for each of the 4 different IOT 
 
 * RFID
 
-* Barcode
+* Bar-code
 
 ##Group members:
 
