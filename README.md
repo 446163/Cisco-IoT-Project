@@ -7,8 +7,11 @@ This is the project for UTC Reading in partnership with Cisco and its to do with
 This will be split up into 4 different sections for each of the 4 different IOT projects that will be available and these are:
 
 *Bluetooth
+
 *Computer vision
+
 *Barcodes
+
 *TBD
 
 ##groups members:
