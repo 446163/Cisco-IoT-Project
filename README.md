@@ -28,13 +28,13 @@ Role: Deputy
 
 email: simon.light@utcreading.org.uk
 
-###gurjeevan mahanger
+###Gurjeevan Mahanger
 
 Role: 
 
 email: gurjeevan.singh@utcreading.org.uk
 
-###sajiad ali
+###Sajiad Ali
 
 Role: 
 
