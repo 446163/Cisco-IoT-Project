@@ -2,7 +2,7 @@
 
 Mentor: Israr Hassan
 
-#Introduction
+# Introduction
 
 This is the project for UTC Reading in partnership with Cisco and its to do with the Internet of things.
 
@@ -16,27 +16,27 @@ This will be split up into 4 different sections for each of the 4 different IOT 
 
 * Bar-code
 
-##Group members:
+## Group members:
 
-###Daniel Easteal
+### Daniel Easteal
 
 Role: Lead
 
 email: daniel.easteal@utcreading.org.uk
 
-###Simon Light
+### Simon Light
 
 Role: Deputy
 
 email: simon.light@utcreading.org.uk
 
-###Gurjeevan Mahanger
+### Gurjeevan Mahanger
 
 Role: Reporter
 
 email: gurjeevan.singh@utcreading.org.uk
 
-###Sajjad Ali
+### Sajjad Ali
 
 Role: Reasearcher
 
