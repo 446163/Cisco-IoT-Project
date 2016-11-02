@@ -36,8 +36,8 @@ Role: Reporter
 
 email: gurjeevan.singh@utcreading.org.uk
 
-###Sajiad Ali
+###Sajjad Ali
 
 Role: Reasearcher
 
-email: sajiad.ali@utcreading.org.uk
+email: sajjad.ali@utcreading.org.uk
