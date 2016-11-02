@@ -1,5 +1,7 @@
 # Cisco-IOT-Project
 
+Mentor: Israr Hassan
+
 #Introduction
 
 This is the project for UTC Reading in partnership with Cisco and its to do with the Internet of things.
@@ -30,12 +32,12 @@ email: simon.light@utcreading.org.uk
 
 ###Gurjeevan Mahanger
 
-Role: 
+Role: Reporter
 
 email: gurjeevan.singh@utcreading.org.uk
 
 ###Sajiad Ali
 
-Role: 
+Role: Reasearcher
 
 email: sajiad.ali@utcreading.org.uk
