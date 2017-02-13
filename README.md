@@ -1,4 +1,4 @@
-# Cisco-IOT-Project
+# Cisco-IoT-Project
 
 Mentor: Israr Hassan
 
@@ -6,7 +6,7 @@ Mentor: Israr Hassan
 
 This is the project for UTC Reading in partnership with Cisco and its to do with the Internet of things.
 
-This will be split up into 4 different sections for each of the 4 different IOT projects that will be available, and these are:
+This will be split up into 4 different sections for each of the 4 different IoT projects that will be available, and these are:
 
 * Computer vision
 
